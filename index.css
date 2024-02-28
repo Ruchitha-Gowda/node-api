@@ -1,0 +1,21 @@
+h1.main{
+    color: white;
+}
+body {
+    background-image: url('https://st.redbus.in/Images/rdc/rdc-redbus-logo.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+h1 {
+    border: 2px dotted pink;
+    padding: 30px;
+    background-color: cyan;
+    margin : 30px;
+}
+p {
+    border: 2px dotted pink;
+    padding: 30px;
+    background-color: cyan;
+    margin : 30px;
+}
